@@ -1,5 +1,5 @@
 import AreaCharts from "./AreaCharts";
-import PyCharts from "./ui/pyCharts";
+import PyCharts from "./PyCharts";
 import BarGraphChart from "./BarGraphChart";
 import { useState } from "react";
 
